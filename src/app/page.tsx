@@ -78,7 +78,9 @@ export default function Home() {
               📄 El Papel Blanco
             </a>
             <a
-              href="#community"
+              href="https://t.me/badbunnyhalftime"
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-neon border-2 border-neon text-neon font-heading font-black px-8 py-4 rounded-full text-lg uppercase tracking-wider"
             >
               💬 Join La Familia
@@ -430,7 +432,9 @@ export default function Home() {
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-3xl mx-auto">
             <a
-              href="#"
+              href="https://t.me/badbunnyhalftime"
+              target="_blank"
+              rel="noopener noreferrer"
               className="gradient-border p-6 text-center hover:scale-105 transition-transform cursor-pointer block"
             >
               <div className="relative z-10">
