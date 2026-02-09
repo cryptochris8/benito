@@ -16,7 +16,9 @@ export default function Home() {
           </nav>
           <div className="flex items-center gap-3">
             <a
-              href="#how-to-buy"
+              href="https://pump.fun/coin/2cR5kpMkQgg9FY4VrfJ4k11Z3Ad1Py97C9cquLzMpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-neon bg-neon text-black font-heading font-black px-5 py-2 rounded-full text-sm uppercase tracking-wider"
             >
               Buy $BENITO
@@ -62,7 +64,9 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <a
-              href="#how-to-buy"
+              href="https://pump.fun/coin/2cR5kpMkQgg9FY4VrfJ4k11Z3Ad1Py97C9cquLzMpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-neon bg-neon text-black font-heading font-black px-8 py-4 rounded-full text-lg uppercase tracking-wider"
             >
               🐰 Buy on Pump.fun
@@ -398,8 +402,8 @@ export default function Home() {
             <div className="relative z-10">
               <h3 className="text-xl font-heading font-black text-neon mb-4">Contract Address (CA)</h3>
               <div className="bg-black/50 rounded-xl p-4 border border-neon/30">
-                <p className="text-neon font-mono text-sm md:text-base break-all" id="contract-address">
-                  TBA &mdash; Launching during Super Bowl LX halftime
+                <p className="text-neon font-mono text-sm md:text-base break-all select-all cursor-pointer" id="contract-address">
+                  2cR5kpMkQgg9FY4VrfJ4k11Z3Ad1Py97C9cquLzMpump
                 </p>
               </div>
               <p className="text-xs text-gray-500 mt-3">
@@ -448,7 +452,9 @@ export default function Home() {
             </a>
 
             <a
-              href="#"
+              href="https://dexscreener.com/solana/2cR5kpMkQgg9FY4VrfJ4k11Z3Ad1Py97C9cquLzMpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="gradient-border p-6 text-center hover:scale-105 transition-transform cursor-pointer block sm:col-span-2 lg:col-span-1"
             >
               <div className="relative z-10">

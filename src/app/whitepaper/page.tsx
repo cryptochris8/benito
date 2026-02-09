@@ -14,7 +14,9 @@ export default function WhitePaper() {
             <a href="/#roadmap" className="hover:text-neon transition-colors">La Ruta</a>
           </nav>
           <a
-            href="/#how-to-buy"
+            href="https://pump.fun/coin/2cR5kpMkQgg9FY4VrfJ4k11Z3Ad1Py97C9cquLzMpump"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-neon bg-neon text-black font-heading font-black px-5 py-2 rounded-full text-sm uppercase tracking-wider"
           >
             Buy $BENITO
