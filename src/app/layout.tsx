@@ -15,12 +15,18 @@ export const metadata: Metadata = {
     "halftime show",
     "crypto",
     "Super Bowl LX",
+    "bad bunny halftime",
+    "bad bunny super bowl",
+    "benito coin",
   ],
+  metadataBase: new URL("https://www.badbunnyhalftime.net"),
   openGraph: {
     title: "$BENITO | El Conejo Malo of Crypto",
     description:
       "Bad Bunny hits the stage. $BENITO hits the blockchain. The Super Bowl LX halftime meme coin.",
     type: "website",
+    url: "https://www.badbunnyhalftime.net",
+    siteName: "$BENITO - Bad Bunny Halftime Coin",
   },
   twitter: {
     card: "summary_large_image",
