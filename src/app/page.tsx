@@ -90,7 +90,7 @@ export default function Home() {
           {/* Live stats placeholder */}
           <div className="flex flex-wrap justify-center gap-6 text-center">
             <div className="gradient-border px-6 py-4 min-w-[140px]">
-              <p className="relative z-10 text-2xl font-heading font-black text-neon">1B</p>
+              <p className="relative z-10 text-2xl font-heading font-black text-neon">2B</p>
               <p className="relative z-10 text-xs text-gray-400 uppercase tracking-wider">Total Supply</p>
             </div>
             <div className="gradient-border px-6 py-4 min-w-[140px]">
@@ -199,8 +199,8 @@ export default function Home() {
               <div className="relative z-10">
                 <p className="text-5xl mb-4">🪙</p>
                 <h3 className="text-xl font-heading font-black text-neon mb-2">Total Supply</h3>
-                <p className="text-3xl font-heading font-black text-white">1,000,000,000</p>
-                <p className="text-gray-400 text-sm mt-1">One Billion $BENITO</p>
+                <p className="text-3xl font-heading font-black text-white">2,000,000,000</p>
+                <p className="text-gray-400 text-sm mt-1">Two Billion $BENITO</p>
               </div>
             </div>
 

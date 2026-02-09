@@ -231,7 +231,7 @@ export default function WhitePaper() {
                     </tr>
                     <tr className="border-b border-gray-800">
                       <td className="py-3 text-neon font-semibold">Total Supply</td>
-                      <td className="py-3">1,000,000,000 (1 Billion)</td>
+                      <td className="py-3">2,000,000,000 (2 Billion)</td>
                     </tr>
                     <tr className="border-b border-gray-800">
                       <td className="py-3 text-neon font-semibold">Buy Tax</td>
